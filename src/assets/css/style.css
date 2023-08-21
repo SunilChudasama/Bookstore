@@ -273,7 +273,7 @@ body {
 
 .btn.pink-btn {
   color: #fff;
-  background-color: #f14d54;
+  background-color: #2047f5;
   height: 47px;
   line-height: 47px;
   padding: 0 29px;
@@ -283,7 +283,7 @@ body {
 }
 
 .btn.pink-btn:hover {
-  background-color: #ff101b;
+  background-color: #2047f5;
 }
 
 body.open-menu {
